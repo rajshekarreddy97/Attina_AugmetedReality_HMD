@@ -4,6 +4,20 @@ The Attina headset is comprised of 3D printable parts, and their respective CAD 
 
 ## Bill of Materials
 
+| Ref. | Part Name                                     | Quantity | Type          | Approx. Cost (USD) |
+|------|-----------------------------------------------|----------|---------------|-------------------|
+| A    | Main frame                                    | 1        | 3D Printable | 8                 |
+| B    | Welding harness right                         | 1        | 3D Printable | 3                 |
+| C    | Welding harness left                          | 1        | 3D Printable | 3                 |
+| D    | Locking screw                                 | 2        | 3D Printable | 1                 |
+| E    | Reflector holder                              | 1        | 3D Printable | 2                 |
+| F    | Reflector                                     | 1        | Aliexpress    | 10                |
+| G    | M3X10 Screws                                  | 5        | Amazon        | 1                 |
+| H    | Welding helmet replacement headgear (Adjustable) | 1    | Amazon        | 18                |
+| I    | Velcro fastening tape                         | 0.1 m    | Amazon        | 1                 |
+
+Total Cost: 47 USD
+
 ## Tools Required for Manufacturing and Assembly
 
 - 3D printer with a minimum bed size of 0.20 m x 0.15 m x 0.20 m (l x b x h).
