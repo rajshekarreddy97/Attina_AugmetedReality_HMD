@@ -1,4 +1,4 @@
-# Attina Assembly
+# Attina Hardware Assembly
 
 The Attina headset is comprised of 3D printable parts, and their respective CAD models have been designed using CAD software. The individual parts in 3D printable format (.stl) are available here: https://github.com/rajshekarreddy97/Attina_AugmetedReality_HMD/tree/main/Hardware/3D%20Printing%20Files. Additionally, certain components required for assembling the AR headset are commercially available and their details can be found under the bill of materials section.
 
