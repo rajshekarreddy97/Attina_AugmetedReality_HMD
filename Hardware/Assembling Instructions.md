@@ -10,6 +10,8 @@ The Attina headset is comprised of 3D printable parts, and their respective CAD 
 - Screwdriver (flat head/star head) to fasten the components.
 - Flat file to file the extended surfaces, and a sharp knife to trim off the plastic on the edges of the 3D printed parts, depending on print quality.
 
+![Image of assembly tools required](https://github.com/rajshekarreddy97/Attina_AugmetedReality_HMD/blob/main/Hardware/Images/Headset_Components.jpg)
+
 ## Technical Specifications and Assembly Instructions
 
 ### Printing Instructions
@@ -24,6 +26,8 @@ The Attina headset is comprised of 3D printable parts, and their respective CAD 
 ### Assembly Instructions
 
 Please follow the steps illustrated below to assemble the parts.
+
+![Assembly Instructions](https://github.com/rajshekarreddy97/Attina_AugmetedReality_HMD/blob/main/Hardware/Images/AR_Headset_Assembly_Instruction.jpg)
 
 ![Assembly Instructions Flowchart](https://github.com/rajshekarreddy97/Attina_AugmetedReality_HMD/blob/main/Hardware/Images/AR_Headset_Assembly_Instruction_Flow_Chart.jpg)
 
