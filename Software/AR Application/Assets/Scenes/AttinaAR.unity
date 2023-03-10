@@ -450,7 +450,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 250495733}
-  - component: {fileID: 250495732}
   - component: {fileID: 250495734}
   m_Layer: 0
   m_Name: Comms
@@ -459,21 +458,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &250495732
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 250495731}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c274a19d6acb57a4c83042870ba62196, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  streamingGraph: {fileID: 0}
-  port: 8000
-  jetsonIPAddress: 
 --- !u!4 &250495733
 Transform:
   m_ObjectHideFlags: 0
@@ -531,17 +515,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0a402aadc3d7724ba3a5d3f7c4ed5cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timerText: {fileID: 0}
-  sensorDashboardCanvas: {fileID: 0}
-  endoscopeFeedCanvas: {fileID: 0}
-  mainMenuCanvas: {fileID: 1590601296}
-  instructionsCanvas: {fileID: 0}
-  resultsCanvas: {fileID: 0}
-  settingsCanvas: {fileID: 0}
-  carouselPanel: {fileID: 0}
-  peripheralsPanel: {fileID: 0}
-  instructionsNextButton: {fileID: 0}
-  instructionsPrevButton: {fileID: 0}
 --- !u!4 &302952514
 Transform:
   m_ObjectHideFlags: 0
